@@ -113,6 +113,6 @@ triger event1
 
 
 #### References
-https://www.youtube.com/watch?v=knAS0w-jiUk
-https://www.youtube.com/watch?v=7O56u3LyPTY
-https://www.geeksforgeeks.org/hdfs-commands/
+- https://www.youtube.com/watch?v=knAS0w-jiUk
+- https://www.youtube.com/watch?v=7O56u3LyPTY
+- https://www.geeksforgeeks.org/hdfs-commands/
