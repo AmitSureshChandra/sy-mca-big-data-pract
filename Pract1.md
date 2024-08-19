@@ -1,6 +1,8 @@
 Pract 1 : Installation, Configuration of Hadoop on windows 11 and Executing HDFS Commands
 
-Download hadoop from https://hadoop.apache.org/releases.html
+- Download hadoop from https://hadoop.apache.org/releases.html
+- Setup `JAVA_HOME`, `HADOOP_HOME`
+- add hadoop bin path in path system variable
 
 ![image](https://github.com/user-attachments/assets/89eca352-eadd-4897-b8b5-4ab3aedd2132)
 
