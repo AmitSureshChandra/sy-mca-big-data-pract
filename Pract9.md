@@ -166,3 +166,24 @@
 ![image](https://github.com/user-attachments/assets/8522d6f1-6013-4fc9-b234-415fa8a3397b)
 
 ![image](https://github.com/user-attachments/assets/66c7d388-0474-431c-8aad-bc42184c7703)
+
+#### Story
+
+- Go to `Story` menu & create a `New Story`
+- drag required worksheet, objects
+- add title
+- customize
+
+![image](https://github.com/user-attachments/assets/626f8f52-9838-4d6f-9231-073951f50b24)
+
+
+
+#### Map
+
+- downloaded data from `https://www.kaggle.com/datasets/yugalkishore/geographic-data-of-indian-cities?select=IND_cities_geo_data.csv`
+- added above csv as data-source
+- created a worksheet
+- dropped the columns
+
+![image](https://github.com/user-attachments/assets/11a75a75-fd0d-41f5-ab8e-c302b78fe68c)
+
